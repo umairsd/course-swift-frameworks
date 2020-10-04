@@ -1,1 +1,3 @@
-# course-swift-frameworks
+# RazeCore
+
+A description of this package.
